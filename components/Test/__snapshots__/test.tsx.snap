@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Test/> should render the headi ng 1`] = `
+<div>
+  <h1>
+    react avançado teste
+  </h1>
+</div>
+`;
